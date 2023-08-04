@@ -1,3 +1,3 @@
 # alunoetc
 
-# Revisão de Conteúdo
+# HTML, CSS, JAVASCRIPT, PHP, MYSQL
