@@ -5,6 +5,7 @@
 # Técnico em Informática - Módulo 3
 
 # Ferramentas
+
 VISUAL STUDIO CODE, WORKBENCH MYSQL, XAMPP/WAMPP
 
 (HTML, CSS, JAVASCRIPT, PHP, MYSQL)
