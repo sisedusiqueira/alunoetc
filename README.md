@@ -1,8 +1,8 @@
-# alunoetc
-![image](https://github.com/sisedusiqueira/alunoetc/assets/138258723/0cc0f97e-27b8-477e-b177-111d153c55d8)
-
 # Escola Técnica de Ceilândia 
 # Técnico em Informática - Módulo 3
+# alunoetc
+
+![image](https://github.com/sisedusiqueira/alunoetc/assets/138258723/0cc0f97e-27b8-477e-b177-111d153c55d8)
 
 # FERRAMENTAS
 VISUAL STUDIO CODE, WORKBENCH MYSQL, XAMPP/WAMP, (HTML, CSS, JAVASCRIPT, PHP, MYSQL)
