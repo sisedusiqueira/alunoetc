@@ -15,6 +15,4 @@ VISUAL STUDIO CODE, WORKBENCH MYSQL, XAMPP/WAMP, (HTML, CSS, JAVASCRIPT, PHP, MY
 - BD - Banco de Dados - Profº Mônica
 - DIWEB - Desenvolvimento Web - Profº Alessandro 
 
-# Projeto Conclusão de Curso 
 
-[Trabalho Digital PDF]()
