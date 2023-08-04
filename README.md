@@ -4,11 +4,8 @@
 # Escola Técnica de Ceilândia 
 # Técnico em Informática - Módulo 3
 
-# Ferramentas
-
-VISUAL STUDIO CODE, WORKBENCH MYSQL, XAMPP/WAMPP
-
-(HTML, CSS, JAVASCRIPT, PHP, MYSQL)
+# FERRAMENTAS
+VISUAL STUDIO CODE, WORKBENCH MYSQL, XAMPP/WAMPP, (HTML, CSS, JAVASCRIPT, PHP, MYSQL)
 
 # Matérias
 - PCC - Projeto Conclusão de Curso - Profº Jerusilene
